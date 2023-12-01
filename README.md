@@ -9,13 +9,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kazerog&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
-    - 🔭 I’m currently working on [PaaS](allowebs.com) <br>
-    - 👯 I’m looking to collaborate on [PaaS](allowebs.com) <br>
-    - 🤝 I’m looking for help with [PaaS](allowebs.com) <br>
-    - 👨‍💻 All of my projects are available at [allowebs.com](allowebs.com) <br>
-    - 📝 I regularly write articles on [allowebs.com](allowebs.com) <br>
-    - 📫 How to reach me **adryserage@gmail.com** <br>
-    - 📄 Know about my experiences [allowebs.com/portfolio](allowebs.com/portfolio)
+    - 🔭 I’m currently working on PaaS<br>
+    - 👯 I’m looking to collaborate on PaaS <br>
+    - 🤝 I’m looking for help with PaaS <br>
+    - 👨‍💻 All of my projects are available at Allowebs.com <br>
+    - 📝 I regularly write articles on adryanserage.com <br>
+    - 📫 How to reach me **info@adryanserage.com** <br>
+    - 📄 Know about my experiences adryanserage.com
 </p>
 
 <p><img align="left"
