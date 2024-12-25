@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adryan Serage
-    <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=kazerog&label=Profile%20views&color=0e75b6&style=flat"
-            alt="kazerog" />
-    </p>
-</h1>
-<h3 align="center">A passionate developer from Canada</h3>
+<img src="https://komarev.com/ghpvc/?username=kazerog&label=Profile%20views&color=0e75b6&style=flat" alt="kazerog" />
+            
+### Hi 👋, I'm Adryan Serage
+A passionate developer from Canada
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kazerog&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kazerog&theme=flat&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
     - 🔭 I’m currently working on PaaS/SaaS
