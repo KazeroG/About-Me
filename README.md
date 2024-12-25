@@ -9,6 +9,10 @@
 - 👨‍💻 All of my projects are available at [Allowebs.com](https://allowebs.com/portfolio)
 - 📫 How to reach me: support@allowebs.com
 
+<!-- template -->
+I joined GitHub on `{{ f.date(REGISTRATION_DATE, {date:true}) }}`.
+I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits.
+
 ## Connect with me:
 
 <a href="https://linkedin.com/in/adryan-s-42288711a" target="blank">
