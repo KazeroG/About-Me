@@ -1,9 +1,9 @@
-<img src="https://komarev.com/ghpvc/?username=kazerog&label=Profile%20views&color=0e75b6&style=flat" alt="kazerog" />
+<img src="https://komarev.com/ghpvc/?username=adryserage&label=Profile%20views&color=0e75b6&style=flat" alt="adryserage" />
             
 ### Hi 👋, I'm Adryan Serage
 A passionate developer from Canada
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kazerog&theme=flat&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adryserage&theme=flat&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
     - 🔭 I’m currently working on PaaS/SaaS
@@ -14,13 +14,13 @@ A passionate developer from Canada
 </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=kazerog&show_icons=true&locale=en&layout=compact"
-        alt="kazerog" /></p>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=adryserage&show_icons=true&locale=en&layout=compact"
+        alt="adryserage" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazerog&show_icons=true&locale=en"
-        alt="kazerog" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adryserage&show_icons=true&locale=en"
+        alt="adryserage" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazerog&" alt="kazerog" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adryserage&" alt="adryserage" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/adryan-s-42288711a" target="blank"><img align="center"
