@@ -16,7 +16,6 @@
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
        alt="adryan-s-42288711a" height="30" width="40" />
 </a>
-
 <a href="https://stackoverflow.com/users/6127121" target="blank">
   <img align="center" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
@@ -24,8 +23,7 @@
 </a>
 
 ## Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=adryserage&theme=flat&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; width: 100%;">
