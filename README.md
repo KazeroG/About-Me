@@ -23,6 +23,6 @@
 </a>
 
 ## Stats
-
-![achievements](/achievements.svg)
 ![general](/general.svg)
+![achievements](/achievements.svg)
+
