@@ -24,22 +24,5 @@
 
 ## Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adryserage&theme=flat&column=9)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; width: 100%;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adryserage&show_icons=true&locale=en&layout=compact" 
-    alt="Top Languages" 
-    style="flex: 1; width: auto; height:145px;"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=adryserage&" 
-    alt="GitHub Streak" 
-    style="flex: 1; width: auto; height:145px;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=adryserage&show_icons=true&locale=en" 
-    alt="GitHub Stats" 
-    style="flex: 1; width: auto; height:145px;"
-  />
-</div>
+![achievements](/achievements.svg)
+![general](/general.svg)
